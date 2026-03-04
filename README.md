@@ -12,7 +12,7 @@
 - [Key Features](#key-features)
 - [Why Local RAG?](#why-local-rag)
 - [Installation](#installation)
-- [Usage](#usag
+- [Usage](#usage)
 - [Batch Testing](#batch-testing)
 - [Tech Stack](#tech-stack)
 
